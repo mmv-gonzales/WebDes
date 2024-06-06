@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#logo-div {
+    width: 100%;
+    min-height: 40px;
+    background-color: pink;
+    padding-left: 2%;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+
+#nav-div{
+   width: 100%;
+    min-height: 40px;
+    background-color: pink;
+    line-height: 40px;  
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.navigation{
+    width: 15%;
+    min-height: 40px;
+    text-align: center;
+    line-height: 40px; 
+    float: left;
+}
+
+#main-div {
+    width: 100%;
+    min-height: 400px;
+    margin-bottom: 10px;
+} 
+
+#sidebar-div {
+    width: 20%; 
+    min-height: 400px;
+    background-color: pink;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+    line-height: 400px;
+}
+
+.sidebar{
+    width: 20%; 
+    min-height: 50px;
+    background-color: pink;
+    text-align: center;
+    line-height: 50px;  
+}
+
+#bodyarea-div {
+    width: 80%; 
+    min-height: 90px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    line-height: 90px;
+}
+.body{
+    align-items: center;
+}
+.body img {
+    width: 50%;
+    height: auto;
+}
+#footer-div {
+    width: 100%;
+    min-height: 50px;
+    background-color: pink;
+    text-align: center;
+    line-height: 50px;
+}
+
+#footer-div img {
+    align-items: center;
+}
+
+#wrapper-div {
+    width: 80%;
+    margin: auto;
+}
